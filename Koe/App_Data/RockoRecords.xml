@@ -1,0 +1,116 @@
+<?xml version="1.0"  encoding="UTF-8" standalone="yes"?>
+<catalog>
+  <record>
+    <title>Live in London</title>
+    <artist>Saara Aalto</artist>
+    <country>Suomi</country>
+    <year>2016</year>
+    <value>10</value>
+	<number>1000</number>
+  </record>
+  <record>
+    <title>Einarin mopo</title>
+    <artist>Juice Leskinen</artist>
+    <country>Suomi</country>
+    <year>1972</year>
+    <value>5</value>
+	<number>200</number>
+  </record>
+  <record>
+    <title>Valkoinen kupla</title>
+    <artist>Eppu Normaali</artist>
+    <country>Suomi</country>
+    <year>1986</year>
+    <value>10</value>
+	<number>100</number>
+  </record>
+  <record>
+    <title>Imperiumin vastaisku</title>
+    <artist>Eppu Normaali</artist>
+    <country>Suomi</country>
+    <year>1998</year>
+    <value>15</value>
+	<number>66</number>
+  </record>
+  <record>
+    <title>Sadan vuoden paastakin</title>
+    <artist>Eppu Normaali</artist>
+    <country>Suomi</country>
+    <year>2006</year>
+    <value>10</value>
+	<number>100</number>
+  </record>
+  <record>
+    <title>Roadrunner</title>
+    <artist>Hurriganes</artist>
+    <country>Suomi</country>
+    <year>1975</year>
+    <value>100</value>
+	<number>10</number>
+  </record>
+  <record>
+    <title>Still got the blues</title>
+    <artist>Gary Moore</artist>
+    <country>UK</country>
+    <year>1990</year>
+    <value>25</value>
+	<number>40</number>
+  </record>
+  <record>
+    <title>Afterburner</title>
+    <artist>ZZ Top</artist>
+    <country>USA</country>
+    <year>1985</year>
+    <value>50</value>
+	<number>20</number>
+  </record>
+  <record>
+    <title>Hotel California</title>
+    <artist>Eagles</artist>
+    <country>USA</country>
+    <year>1976</year>
+    <value>40</value>
+	<number>25</number>
+  </record>
+  <record>
+    <title>High Voltage</title>
+    <artist>AC DC</artist>
+    <country>Australia</country>
+    <year>1975</year>
+    <value>200</value>
+	<number>5</number>
+  </record>
+  <record>
+    <title>T.N.T</title>
+    <artist>AC DC</artist>
+    <country>Australia</country>
+    <year>1975</year>
+    <value>250</value>
+	<number>4</number>
+  </record>
+    <record>
+    <title>Dirty Deeds Done Dirt Cheep</title>
+    <artist>AC DC</artist>
+    <country>Australia</country>
+    <year>1976</year>
+    <value>66</value>
+	<number>15</number>
+  </record>
+  <record>
+    <title>Metallica</title>
+    <artist>Metallica</artist>
+    <country>USA</country>
+    <year>1991</year>
+    <value>333</value>
+	<number>3</number>
+  </record>
+  
+  <record>
+    <title>Hoedown</title>
+    <artist>Hoedown</artist>
+    <country>Suomi</country>
+    <year>2008</year>
+    <value>20</value>
+	<number>50</number>
+  </record>
+</catalog>
